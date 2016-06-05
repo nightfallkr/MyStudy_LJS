@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-1597CB8B40F411DDA90881A628776C79</CrashGUID>
+<ProcessId>10172</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<SecondsSinceStart>35</SecondsSinceStart>
+<GameName>UE4-MyStudy_LJS</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineVersion>4.11.2-2946394+++UE4+Release-4.11</EngineVersion>
+<CommandLine>&quot;D:\Unreal4Projects_LJS\MyStudy_LJS\MyStudy_LJS.uproject&quot; </CommandLine>
+<LanguageLCID>1033</LanguageLCID>
+<AppDefaultLocale>ko_KR</AppDefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files/Unreal Engine/4.11/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files/Unreal Engine/4.11/</RootDir>
+<MachineId>E792DA8749EE96DA82BA5CA2430BC69B</MachineId>
+<EpicAccountId>7735729cfacd45018d8e5ad7a2086512</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage>Ensure condition failed: ExpectedWorkThisFrame &lt;= WorkRemaining [File:D:\BuildFarm\buildmachine_++UE4+Release-4.11\Engine\Source\Runtime\Core\Public\Misc\FeedbackContext.h] [Line: 272] &nl;Work overflow in slow task. Please revise call-site to account for entire progress range.&nl;</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 660  </Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>17058672640</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>11824275456</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140735053193216</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>1166028800</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>1166028800</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1574658048</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>1574658048</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
